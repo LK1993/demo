@@ -1,10 +1,4 @@
-//
-//  AppDelegate.m
-//  demo
-//
-//  Created by 李康 on 2017/7/24.
-//  Copyright © 2017年 李康. All rights reserved.
-//
+
 
 #import "AppDelegate.h"
 
